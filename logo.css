@@ -1,0 +1,58 @@
+body {
+	background: black;
+	font-style: normal;
+    font-size: 14px;
+    line-height: normal;
+    font-family: "open sans", Arial, sans-serif;
+}
+.head {
+    margin: 0 auto;
+    padding: 0 20px;
+    height: 90px;
+    background: white;
+}
+#logo .title {
+	color: black;
+	font-size: 40px;
+	display: inline-block;
+	vertical-align: top;
+	font-weight: 600;
+    font-style: inherit;
+}
+.logo {
+	width: 40px;
+    height: 40px;
+    background-repeat: no-repeat;
+}
+.list-action {
+    display: inline-block;
+    font-size: 20px;
+
+}
+.list-action li {
+    width: 200px;
+    height: 70px;
+    border: white solid;
+    text-align: center;
+}
+a {
+    color: white;
+}
+.body {
+    overflow: auto;
+}
+.pic {
+    height: 700px;
+    width: 1000px;
+    margin-left: 400px;
+}
+.text {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.sign {
+    text-align: center;
+    background: white;
+    color: black;
+}
